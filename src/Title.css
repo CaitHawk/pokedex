@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.Title {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.Title-title {
+    font-size: 60px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-family: 'Press Start 2P';
+}
+
+.Title-directions {
+    font-size: 12px;
+}
